@@ -27,5 +27,3 @@ The simulation will likely demonstrate the following key results, as indicated i
 1.  **Non-Gaussian Returns:** The **`plot_return_distributions`** function is designed to show the simulated returns (q-distribution) have **excess kurtosis** (heavy tails) compared to the standard Normal distribution, a known feature of the Quantum Oscillator Model and real financial data.
 2.  **Validation of Q-Variance:** The **`plot_q_variance_results`** function will show that the **simulated variance data points** (conditional volatility) follow the **parabolic curve** defined by the theoretical $\sigma^2 + z^2/2$ line, rather than the flat line of the classical Brownian Motion model ($\sigma^2$).
 3.  **Scale Invariance:** The simulation tests the property across different time horizons $T$ (5, 10, 20, and 40 days). The nature of the $z = x/\sqrt{T}$ normalization means the relationship should hold regardless of $T$. The code structure confirms this test.
-
-Would you like me to run a simulation for a specific set of parameters (like a different base volatility or market temperature) and analyze the output?
