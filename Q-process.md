@@ -1,4 +1,6 @@
-Looking at the quantum finance simulation code, I'll provide a rigorous mathematical definition of the stochastic process underlying David Orrell's quantum oscillator model.## Mathematical Definition of the Quantum Oscillator Stochastic Process
+
+
+## Mathematical Definition of the Orrell Quantum Oscillator Stochastic "Q-Process"
 
 ### 1. **State Space and Basic Setup**
 
