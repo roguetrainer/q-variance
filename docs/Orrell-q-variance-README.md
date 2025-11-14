@@ -11,6 +11,8 @@ Orrell proposes a novel quantum-inspired oscillator model & an empirical fit wit
 ## Process
 The challenge is to find a process that gives rise to the Q-variance distribution, with the correct scaling. Here we ask Claude & then Gemini for suggestions for how to achieve the desiderata for the process. 
 
+"For the Q-variance model, the variance of the entire process depends on its final realized outcome."
+
 * [Time-evolution-equation--Claude-Opus.md](https://github.com/roguetrainer/q-variance/blob/main/docs/Time-evolution-equation--Claude-Opus.md)
 * [Process-approaches.md](https://github.com/roguetrainer/q-variance/blob/main/docs/Process-approaches.md)
 * [Process-GeminiPro.md](https://github.com/roguetrainer/q-variance/blob/main/docs/Process-GeminiPro.md)
