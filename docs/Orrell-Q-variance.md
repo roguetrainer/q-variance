@@ -1,3 +1,5 @@
+# Orrell's quantum oscillator model & q-variance
+
 Here is a short summary of David Orrell's Q-variance discovery, based on the provided documents and further research.
 
 Orrell's Q-variance discovery is a specific, quantitative relationship between the **variance** of an asset's price change and the **size of the price change itself**. It is named "Q-variance" for both "quadratic" and "quantum," as it was first predicted using a quantum oscillator model *before* it was tested against data.
