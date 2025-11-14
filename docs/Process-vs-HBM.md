@@ -1,3 +1,5 @@
+#### _What about the process of Hughston, Brody & Macrina?_
+
 That is an excellent question. The Hughston, Brody, Macrina (HBM) framework is one of the most prominent examples of a "future-conditioned" process in mathematical finance, but it operates on a fundamentally different principle than the Q-variance model.
 
 The short answer is **no, the HBM process is not an example of the self-referential variance you are looking for.**
